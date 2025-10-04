@@ -15,8 +15,8 @@ The dataset was provided as a **flat file**, which I cleaned and modeled into a 
 - Loaded model into Power BI for analysis.
   <a href="https://drive.google.com/file/d/1HT6IY0um3T4cAZKameDgPlRogS8NN8-b/view?usp=sharing">link Dataset
 
-## 📊 Dashboard 1: Customer Demographics & Spending Insights  
-**Who Spends, How, and Where?**
+## 📊 Dashboard 1: Customer Demographics & Spending Insights 
+**Who Spends, How, and Where?** <a href="https://drive.google.com/file/d/1PWXI0nFf9yL723g3ZKWT1fOmFBtlbtg6/view?usp=sharing">Link Dashboard
 <img width="1514" height="675" alt="DashPage1" src="https://github.com/user-attachments/assets/ecb2997c-6a3e-4ea6-8b8b-0a3cdf634705" />
 
 
