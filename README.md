@@ -5,7 +5,7 @@ This project analyzes over **1.8M credit card transaction records** to extract i
 The dataset was provided as a **flat file**, which I cleaned and modeled into a **Star Schema** using Power Query.
 
 🔗 **Live Dashboard:** [View on Power BI Service] 
-<a href='https://app.powerbi.com/view?r=eyJrIjoiYzlhZjM4NGMtNGI2ZS00YTJkLTk1YWYtZDI5OGE2MGEyYzAzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9'>
+-<a href="https://app.powerbi.com/viewr=eyJrIjoiYzlhZjM4NGMtNGI2ZS00YTJkLTk1YWYtZDI5OGE2MGEyYzAzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9">
 
 ## 🧩 Data Preparation
 - Cleaned raw dataset using **Power Query**.
