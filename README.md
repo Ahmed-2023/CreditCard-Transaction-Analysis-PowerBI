@@ -4,7 +4,7 @@
 This project analyzes over **1.8M credit card transaction records** to extract insights about customer spending behavior and fraud detection.  
 The dataset was provided as a **flat file**, which I cleaned and modeled into a **Star Schema** using Power Query.
 
--<a href="https://app.powerbi.com/view?r=eyJrIjoiYzlhZjM4NGMtNGI2ZS00YTJkLTk1YWYtZDI5OGE2MGEyYzAzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9">🔗 **Live Dashboard:** [View on Power BI Service] 
+-<a href="https://app.powerbi.com/view?r=eyJrIjoiYzlhZjM4NGMtNGI2ZS00YTJkLTk1YWYtZDI5OGE2MGEyYzAzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=d2345aab51ccbdfe972c">🔗 **Live Dashboard:** [View on Power BI Service] 
 
 
 ## 🧩 Data Preparation
