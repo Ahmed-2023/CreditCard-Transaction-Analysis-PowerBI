@@ -4,13 +4,15 @@
 This project analyzes over **1.8M credit card transaction records** to extract insights about customer spending behavior and fraud detection.  
 The dataset was provided as a **flat file**, which I cleaned and modeled into a **Star Schema** using Power Query.
 
+🔗 **Live Dashboard:** [View on Power BI Service](<a href='https://app.powerbi.com/view?r=eyJrIjoiYzlhZjM4NGMtNGI2ZS00YTJkLTk1YWYtZDI5OGE2MGEyYzAzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9'>)
+
 ## 🧩 Data Preparation
 - Cleaned raw dataset using **Power Query**.
 - Built a **Star Schema** separating:
   - **Fact Table**: Transactions (CardID, MerchantID, Amount, Date, FraudFlag, etc.)
   - **Dimension Tables**: Cardholder-info, Merchant-info,calenderDate.
 - Loaded model into Power BI for analysis.
-
+  <a href='
 
 ## 📊 Dashboard 1: Customer Demographics & Spending Insights  
 **Who Spends, How, and Where?**
